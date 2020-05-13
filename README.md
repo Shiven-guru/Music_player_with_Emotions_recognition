@@ -34,7 +34,7 @@
 
 
 ### IMPORTANT if you want to purchase with GUI
-- This is just coded version with no GUI, i ggiven it to opensource ,but if you want to purchase a GUI version ,then go to here
+- This is just coded version with no GUI, i given it to opensource ,but if you want to purchase a GUI version ,then go to here
 [STORE](https://www.instamojo.com/kushalbhavsar1820/e-musicplay-music-according-to-your-face-moo/)
 ### Features of full GUI version
 -  Full GUI (Tkinter)
