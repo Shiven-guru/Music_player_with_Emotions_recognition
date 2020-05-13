@@ -6,8 +6,8 @@
 ### Code Requirements
 - Tensorflow
 - Download my repository
-- Own Expression dataset(NOTE: You can downlaod expression images from google, or you can record your video make diffrent expression ,and converts into Grayscale images(For more accurate prediction))
-- Song dataset
+- Own Expressions dataset(NOTE: You can download expression images from google, or you can record your video to make different expression ,and convert it into Grayscale images(For more accurate prediction))
+- Songs dataset
 
 
 ### What steps you have to follow??
@@ -17,10 +17,10 @@
   run this program it will detect faces from images and convert it into grayscale and make a new images in same folder.
 - Make 'Songs' folder make subfolders for emotions and put Songs,Like Happy songs in happy folder.
 - After that you have to create model, for that copy code from code.txt file and open CMD in your project folder and paste it & enter
-- It will take training aaround 20-25 minutes so keep patience.
+- It will take training around 20-25 minutes so keep patience.
 - After training it will create two files `retrained_graph.pb` & `retrained_labels.txt`
 - Now run `music_player_webcam.py` (give proper path of songs and Mediaplayer according to your location in code)
-- If you want to fetch video from your mobile cam than use `music_player_android.py`,but you have to install IPWebcam app in your system
+- If you want to fetch video from your mobile cam then use `music_player_android.py`,but you have to install IPWebcam app in your system
   and replace your server URL with my URL
 - That's all 
 
@@ -55,9 +55,9 @@
 
 ### Notes
 - It will require high processing power(I have 8 GB RAM & 2 GB GC)
-- If you think it will recognise expression just like humans,than leave it ,its not possible.
+- If you think it will recognise expression just like human,then leave it ,it is not possible.
 - Download 300 Images for every expression(you can use batch downloader)
-- Noisy image can reduce your accuracy so quality of images matter.
+- Noisy image can reduce your accuracy so quality of image matters.
 
 ## Just follow☝️ me and Star⭐ my repository 
 ## [Demo video](https://youtu.be/YTIrGBOKRHY)
